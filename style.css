@@ -1,0 +1,35 @@
+
+img{
+  max-width: 100%;
+}
+.gallery{
+  background-color:white;
+  padding: 80px 0;
+}
+.gallery img{
+  background-color: #ffff;
+  padding: 15px;
+  width:100%;
+  box-shadow:0 0 10px rgba(0,0,0,0.3);
+}
+#Contact h1{
+  background-color: white;
+  color: lightskyblue;
+
+}
+.myphoto img{
+  border-radius: 20px;
+  
+}
+.Aboutimg img{
+  border-radius:20px;
+}
+.navbar-brand p{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  padding-top: 10px;
+}
+.main p{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:20px ;
+}
